@@ -54,9 +54,8 @@
 4.2
 > Solução em: [Link](https://github.com/iagosaito/tech-book-exercises/blob/main/entendendo-algoritmos-um-guia-para-programadores-e-outros-curiosos/4.2_recursive_count_number_of_elements_in_list.go)
 
-
-
-
+4.3
+> Solução em: [Link](https://github.com/iagosaito/tech-book-exercises/blob/main/entendendo-algoritmos-um-guia-para-programadores-e-outros-curiosos/4.3_recursive_highest_number_in_list.go)
 
 
 
