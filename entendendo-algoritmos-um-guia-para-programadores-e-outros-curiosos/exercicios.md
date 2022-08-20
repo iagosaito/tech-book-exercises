@@ -35,7 +35,7 @@
 > O problema do Array com relação as inserções são dois: 
 > - Os Arrays tem um tamanho fixo. Caso esse tamanho for ultrapassado, todos os elementos devem ser movidos de um lugar para outro. 
 > - Caso essa inserção ocorra no começo do Array, todos os outros elementos devem ser deslocados para a direita. 
-> Outro problema é o fato de que para utilizar a lista ordenada os Arrays precisarão estar ordenados. Então a cada nova inserção será necessário ordenar todos os Arrays. 
+> Outro problema é o fato de que para utilizar a lista ordenada os Arrays precisarão estar ordenados. Então a cada nova inserção será necessário ordenar todos os Arrays
 
 
 
