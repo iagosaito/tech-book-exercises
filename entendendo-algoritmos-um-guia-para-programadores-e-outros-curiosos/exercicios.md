@@ -37,10 +37,13 @@
 > - Caso essa inserção ocorra no começo do Array, todos os outros elementos devem ser deslocados para a direita. 
 > Outro problema é o fato de que para utilizar a lista ordenada os Arrays precisarão estar ordenados. Então a cada nova inserção será necessário ordenar todos os Arrays
 
+## Capítulo 3
 
+3.1
+> Podemos inferir que há dois métodos para sempre executados: "Sauda" e "Sauda 2". Nos dois métodos há a variável nome com o valor de Maggie. Como o método "Sauda 2" está em cima de "Sauda" sabemos que o método "Sauda 2" é chamado pelo método "Sauda".
 
-  
-
+3.2
+> A pilha irá crescer infinitamente até acabar a memória do computador. 
 
 
 
