@@ -57,8 +57,7 @@
 4.3
 > Solução em: [Link](https://github.com/iagosaito/tech-book-exercises/blob/main/entendendo-algoritmos-um-guia-para-programadores-e-outros-curiosos/4.3_recursive_highest_number_in_list.go)
 
-
-
-
+4.4 
+> O caso base é quando o tamanho da lista é 1. O caso recursivo é dividir a lista em dois e pegar o elemento do meio e aplicar a busca binária novamente. 
 
 
