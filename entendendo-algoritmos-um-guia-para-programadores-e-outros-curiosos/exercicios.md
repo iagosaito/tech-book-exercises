@@ -60,4 +60,14 @@
 4.4 
 > O caso base é quando o tamanho da lista é 1. O caso recursivo é dividir a lista em dois e pegar o elemento do meio e aplicar a busca binária novamente. 
 
+4.5
+> O(n)
 
+4.6
+> O(n)
+
+4.7
+> O(1)
+
+4.8
+> O(n*n)
