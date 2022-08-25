@@ -88,3 +88,16 @@ Extra
 
 5.4 
 > É consistente, para a mesma entrada, ela devolve o mesmo valor. 
+
+5.5
+> a. Pior alternativa. Retornará uma uma tabela hash com colisão em todos os elementos, visto que a função sempre retorna o mesmo resultado. 
+> b. Alternativa ruim. Ainda assim haverá muitas colisões, visto que a lista possui 3 pessoas com nome do mesmo tamanho. 
+> c. Alternativa média, ele irá garantir um bom espalhamento, mas mesmo assim haverá uma colisão. 
+> d. A melhor alternativa, visto que garante o espalhamento da tabela hash.
+
+5.6 
+> a. Pior alternativa, haverá colisão em todos os elementos. 
+> b. Excelente alternativa, dado que os tamanhos são diferentes, cada função hash hash irá mapear para um espaço diferente. 
+> c. Empatado como pior alternativa, porque todos os tamanhos começam com a mesma letra 'A'. 
+> d. Péssima alternativa, visto que o cálculo da função irá retornar 0 em todos os resultados. 
+
