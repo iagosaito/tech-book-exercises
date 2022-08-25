@@ -71,3 +71,20 @@
 
 4.8
 > O(n*n)
+
+Extra
+> Criei um algoritmo recurso do quicksort: [Link](https://github.com/iagosaito/tech-book-exercises/blob/main/entendendo-algoritmos-um-guia-para-programadores-e-outros-curiosos/4.5_quicksort.go)
+
+## Capítulo 5
+
+5.1 
+> Consistente, porque sempre vai retornar o mesmo valor.  
+
+5.2
+> Não é consistente, porque retorna valores diferentes para a mesma entrada. 
+
+5.3
+> Não é consistente, porque o índice vazio muda, mesmo que a entrada seja a mesma. 
+
+5.4 
+> É consistente, para a mesma entrada, ela devolve o mesmo valor. 
