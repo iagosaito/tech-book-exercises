@@ -101,3 +101,10 @@ Extra
 > c. Empatado como pior alternativa, porque todos os tamanhos começam com a mesma letra 'A'. 
 > d. Péssima alternativa, visto que o cálculo da função irá retornar 0 em todos os resultados. 
 
+## Capitulo 6
+
+6.1 
+> I -> (seta para cima) -> Circulo branco -> (Seta para direita) -> F = 2 passos no total
+
+6.2
+> Jato -> (Seta para diagonal superior direita) -> Gato = 1 passo no total
