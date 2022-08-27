@@ -73,7 +73,7 @@
 > O(n*n)
 
 Extra
-> Criei um algoritmo recurso do quicksort: [Link](https://github.com/iagosaito/tech-book-exercises/blob/main/entendendo-algoritmos-um-guia-para-programadores-e-outros-curiosos/4.5_quicksort.go)
+> Criei um algoritmo recursivo quicksort: [Link](https://github.com/iagosaito/tech-book-exercises/blob/main/entendendo-algoritmos-um-guia-para-programadores-e-outros-curiosos/4.5_quicksort.go)
 
 ## Capítulo 5
 
@@ -101,7 +101,7 @@ Extra
 > c. Empatado como pior alternativa, porque todos os tamanhos começam com a mesma letra 'A'. 
 > d. Péssima alternativa, visto que o cálculo da função irá retornar 0 em todos os resultados. 
 
-## Capitulo 6
+## Capítulo 6
 
 6.1 
 > I -> (seta para cima) -> Circulo branco -> (Seta para direita) -> F = 2 passos no total
