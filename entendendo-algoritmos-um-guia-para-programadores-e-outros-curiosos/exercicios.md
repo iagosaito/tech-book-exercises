@@ -108,3 +108,12 @@ Extra
 
 6.2
 > Jato -> (Seta para diagonal superior direita) -> Gato = 1 passo no total
+
+6.3
+> A -> Inválido; B -> Válido; C -> Inválido
+
+6.4
+> Acordar -> Embrulhar o Lance -> Praticar Exercício -> Tomar Banho -> Trocar de roupa -> Escovar os dentes -> Tomar café da manhã
+
+6.5
+> A e C
