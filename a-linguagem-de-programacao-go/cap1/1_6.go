@@ -11,7 +11,7 @@ import (
 	"time"
 )
 
-var palette = []color.Color{color.RGBA{104, 244, 99, 1}, color.Black}
+var palette = []color.Color{color.White, color.Black, color.Gray{}, color.RGBA{211, 34, 126, 1}, color.RGBA{34, 211, 176, 1}}
 
 const (
 	whiteIndex = 0
@@ -25,7 +25,7 @@ func main() {
 
 func lisssajous(out io.Writer) {
 	const (
-		cycles  = 5     // number of complete x oscillator revolutions
+		cycles  = 10    // number of complete x oscillator revolutions
 		res     = 0.001 // angular resolution
 		size    = 100   // image canvas covers [-size..+size]
 		nframes = 64    // number of animation frames
@@ -40,8 +40,10 @@ func lisssajous(out io.Writer) {
 		for t := 0.0; t < cycles*2*math.Pi; t += res {
 			x := math.Sin(t)
 			y := math.Sin(t*freq + phase)
-			img.SetColorIndex(size+int(x*size+0.5), size+int(y*size+0.5),
-				blackIndex)
+			min := 1
+			max := 4
+
+			img.SetColorIndex(size+int(x*size+0.5), size+int(y*size+0.5), uint8(rand.Intn(max-min+1)+min))
 		}
 		phase += 0.1
 		anim.Delay = append(anim.Delay, delay)
